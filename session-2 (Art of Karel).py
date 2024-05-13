@@ -1,4 +1,4 @@
-This week in section, your goal is to solve a Karel problem together using decomposition and stepwise refinement.
+'''This week in section, your goal is to solve a Karel problem together using decomposition and stepwise refinement.
 
 Here's the Link to the Section 2 Code!
 
@@ -28,7 +28,8 @@ Spread Multiple Rows of Beepers
 Imagine instead of one row of beepers, there are multiple rows stacked on top of one another that we need to spread out!
 
 
-Solution:
+Solution:'''
+
 from karel.stanfordkarel import *
 
 def main():
